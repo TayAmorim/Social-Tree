@@ -23,7 +23,7 @@ ul {
 
 .container {
   margin-inline: 7.625rem;
-}
+ }
 
 header .photo {
   width: 21.3rem;
@@ -39,7 +39,7 @@ header {
   flex-direction: column;
   justify-content: center;
   gap: 2rem;
-  margin-top: 1rem;
+  margin-top: 30px;
 }
 
 header a {
@@ -87,7 +87,6 @@ section.social ul {
   display: flex;
   justify-content: center;
   gap: 2.9rem;
-  margin-bottom: 1rem;
 }
 
 section.social  li svg:hover {
