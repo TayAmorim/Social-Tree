@@ -21,6 +21,10 @@ ul {
   list-style: none;
 }
 
+.container {
+  margin-inline: 7.625rem;
+}
+
 header .photo {
   width: 21.3rem;
   height: 21.3rem;
@@ -31,7 +35,6 @@ header .photo {
 }
 
 header {
-  width: 100%;
   display: flex;
   flex-direction: column;
   justify-content: center;
